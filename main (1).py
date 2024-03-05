@@ -3,6 +3,7 @@ a = int(input("Enter a number: "))
 b = int(input("Enter a number: "))
 op = input(
     "a para SOMA; b para SUBTRAÇÃO; c para MULTIPLICAÇÃO; d para DIVISÃO: ")
+d = print('F5 para atualizar o programa')
 
 #Criar as condições
 if op == 'a':
